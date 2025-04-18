@@ -5,3 +5,7 @@
 - 📫 You can contact me by phone +7(905)577-22-87 or email estival@bk.ru.
 - 😄 I like to snowboard, wakeboard. I have a Shiba Inu dog.
 - ⚡ Fun fact: I don’t speak English despite everything stated above, Google helped))).
+
+## Сertificates
+
+[Все cертификаты Нетологии] (https://drive.google.com/drive/folders/1fUAf_HLt59QKWYNN1hJCy09WuOorW4O_)
