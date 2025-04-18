@@ -8,4 +8,4 @@
 
 ## Сertificates
 
-[Все cертификаты Нетологии] (https://drive.google.com/drive/folders/1fUAf_HLt59QKWYNN1hJCy09WuOorW4O_)
+[Все cертификаты Нетологии](https://drive.google.com/drive/folders/1fUAf_HLt59QKWYNN1hJCy09WuOorW4O)
