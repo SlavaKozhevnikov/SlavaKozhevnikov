@@ -1,5 +1,5 @@
 
--Hi 👋 My name is Slava Kozhevnikov
+Hi 👋 My name is Slava Kozhevnikov
 =================================
 
 Beginning 1C Developer
@@ -16,5 +16,8 @@ I became interested in programming, in particular 1C, completed training on the 
 
 ### 📄 My resume and certificates
 
+- [Diploma and certificates](https://drive.google.com/drive/folders/1295V0FTk-YUHYZJ9BHne-o9o6EznRx86).
+
 - [My resume](https://hh.ru/resume/27cb3ea9ff09d8003b0039ed1f34386f72664b).
+
 - [All Netology certificates](https://drive.google.com/drive/folders/1fUAf_HLt59QKWYNN1hJCy09WuOorW4O_).
