@@ -1,11 +1,18 @@
 
-- 👋 Hi, I’m @SlavaKozhevnikov, I'm 48 years old, I'm from Solnechnogorsk, Moscow region.- 
-- 👀 I became interested in programming, in particular 1C.
-- 🌱 I am currently finishing my studies on the online platform Netology.
-- 💞️ Currently I am looking for an internship in Klin, Solnechnogorsk, Zelenograd or remotely.
-- 📫 You can contact me by phone +7(905)577-22-87 or email estival@bk.ru.
-- 😄 I like to snowboard, wakeboard. I have a Shiba Inu dog.
-- ⚡ Fun fact: I don’t speak English despite everything stated above, Google helped))).
+-Hi 👋 My name is Slava Kozhevnikov
+=================================
+
+Beginning 1C Developer
+--------------------------------
+
+I became interested in programming, in particular 1C, completed training on the online platform Netology and
+сurrently I am looking for an internship in Solnechnogorsk, Zelenograd, Klin or remotely.
+
+* 🌍  I'm based in Solnechnogorsk, Moscow region.
+* 📫  You can contact me by phone +7(905)577-22-87 or email [estival@bk.ru](mailto:estival@bk.ru)
+* 😄  I like to snowboard, wakeboard. I have a Shiba Inu dog.
+* 🤝  I'm open to collaborating 
+* ⚡  Fun fact: I don’t speak English despite everything stated above, Google helped))).
 
 ### 📄 My resume and certificates
 
