@@ -1,23 +1,28 @@
 
-Hi 👋 My name is Slava Kozhevnikov
+Привет 👋 Я Вячеслав Кожевников
 =================================
 
-Beginning 1C Developer
+Junior 1C-разработчик (1С:Предприятие 8.3)  
+Разработка решений для автоматизации бизнес-процессов
 --------------------------------
 
-I became interested in programming, in particular 1C, completed training on the online platform Netology and
-сurrently I am looking for an internship in Solnechnogorsk, Zelenograd, Klin or remotely.
+Разрабатываю решения на платформе 1С 8.3: документы, справочники и регистры накопления, отчёты на СКД и управляемые формы.  
+Использую EDT и Git для разработки и контроля версий, знаком с базовым UI-тестированием (Vanessa Automation).
 
-* 🌍  I'm based in Solnechnogorsk, Moscow region.
-* 📫  You can contact me by phone +7(905)577-22-87 or email [estival@bk.ru](mailto:estival@bk.ru)
-* 😄  I like to snowboard, wakeboard. I have a Shiba Inu dog.
-* 🤝  I'm open to collaborating 
-* ⚡  Fun fact: I don’t speak English despite everything stated above, Google helped))).
+Имею 20+ лет опыта в закупках и продажах — понимаю и учитываю бизнес-логику процессов: взаиморасчёты, документооборот, управленческую аналитику.
 
-### 📄 My resume and certificates
+### Резюме и сертификаты
+📄 [Резюме](https://hh.ru/resume/27cb3ea9ff09d8003b0039ed1f34386f72664b)  
+🎓 [Диплом и сертификаты](https://drive.google.com/drive/folders/1295V0FTk-YUHYZJ9BHne-o9o6EznRx86)
 
-- [Diploma and certificates](https://drive.google.com/drive/folders/1295V0FTk-YUHYZJ9BHne-o9o6EznRx86).
+### Контакты
+📍 Солнечногорск, Московская область  
+📞 +7 (905) 577-22-87  
+✉ [estival@bk.ru](mailto:estival@bk.ru)  
 
-- [My resume](https://hh.ru/resume/27cb3ea9ff09d8003b0039ed1f34386f72664b).
+🤝 Открыт к предложениям на позицию Junior 1C-разработчика (офис / удалённо)
 
-- [All Netology certificates](https://drive.google.com/drive/folders/1fUAf_HLt59QKWYNN1hJCy09WuOorW4O_).
+### Коротко обо мне
+- Спокойно вхожу в новые задачи, умею разбираться в бизнес-процессах и доводить решения до результата  
+- В свободное время — активные виды спорта: сноуборд и вейкборд  
+- Люблю своего питомца сиба-ину
